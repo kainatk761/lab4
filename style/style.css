@@ -42,3 +42,15 @@ main {
 #locationInput button:hover {
   background-color: #2980b9;
 }
+.data-field {
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  display: inline-block;
+  width: calc(50% - 40px);
+  margin-right: 20px;
+  text-align: left;
+}
