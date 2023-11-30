@@ -19,3 +19,7 @@ header h1 {
 header p {
   margin: 10px 0;
 }
+main {
+  padding: 30px;
+  text-align: center;
+}
