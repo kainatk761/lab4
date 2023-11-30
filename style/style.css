@@ -39,3 +39,6 @@ main {
   border: none;
   cursor: pointer;
 }
+#locationInput button:hover {
+  background-color: #2980b9;
+}
