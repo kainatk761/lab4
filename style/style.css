@@ -57,6 +57,10 @@ main {
 .data-field:nth-child(odd) {
   margin-right: 0;
 }
+.data-label {
+  font-weight: bold;
+  margin-right: 5px;
+}
 
 
 
